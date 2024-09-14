@@ -1,6 +1,12 @@
-## Hi there 👋
+## Hi, Everyone 👋
+My Name Is **Agung Purnomo**.<br>
+I'm a **Web developer** and **Cloud Engginer**.<br>
+I study at University Indraprasta PGRI <br>
+If you're interested in getting to know me, please follow account me[Linkedin]
+(https://www.linkedin.com/in/agung-purnomo-234238272/)ku ya
 
-<!--
+
+
 **Agungpurr/Agungpurr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
