@@ -8,7 +8,7 @@ If you're interested in getting to know me, please follow account me[Linkedin]
 
 
 
-##Githb Static
+## Github Static
 ==
 <p align="left">
 <a href="https://github.com/penuliscode">
