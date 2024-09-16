@@ -3,12 +3,13 @@ My Name Is **Agung Purnomo**.<br>
 I'm a **Web developer** and **Cloud Engginer**.<br>
 I study at University Indraprasta PGRI <br>
 If you're interested in getting to know me, please follow account me[Linkedin]
-(https://www.linkedin.com/in/agung-purnomo-234238272/)ku ya
+(https://www.linkedin.com/in/agung-purnomo-234238272/)
 
 
 
 
 ##Githb Static
+==
 <p align="left">
 <a href="https://github.com/penuliscode">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
