@@ -1,6 +1,6 @@
 ## Hi, Everyone 👋
 My Name Is **Agung Purnomo**.<br>
-I'm a **Web developer** and **Cloud Engginer**.<br>
+I'm a **Web developer**.<br>
 I study at University Indraprasta PGRI <br>
 If you're interested in getting to know me, please follow account me[Linkedin]
 (https://www.linkedin.com/in/agung-purnomo-234238272/)
